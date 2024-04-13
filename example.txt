@@ -1,3 +1,4 @@
 New file to track in a new repository
 Pusing file with 1 modification
 Pushing this file for the third time!
+Trying the new credentials with token
